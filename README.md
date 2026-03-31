@@ -2,7 +2,7 @@
 
 #### Repositório dedicado ao compartilhamento dos dados brutos utilizados para o desenvolvimento da taxonomia alvo do estudo.
 
-Autores: 
+Autores: <br>
 Pedro I. S. de Souza<br>
 Helder Oliveira<br>
 Diego Kreutz<br>
